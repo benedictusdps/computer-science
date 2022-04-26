@@ -4,7 +4,17 @@ A repository to document my learning process on Computer Science concepts using 
 
 The topic consists of:
 
-1. CS 101: Introduction to Programming
+1. ## CS 101: Introduction to Programming
+   - Hello World
+   - Control Flow
+   - Lists
+   - Loops
+   - Functions
+   - Git Workflow
+   - Strings
+   - Modules
+   - Dictionaries
+   - Object-Oriented Programming
 1. CS 102: Data Structures and Algorithms
 1. CS 103: Databases
 1. CS 104: Computer Architecture
