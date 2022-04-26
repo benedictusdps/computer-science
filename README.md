@@ -4,7 +4,7 @@ A repository to document my learning process on Computer Science concepts using 
 
 The topic consists of:
 
-1. ## CS 101: Introduction to Programming
+1. CS 101: Introduction to Programming
    - Hello World
    - Control Flow
    - Lists
