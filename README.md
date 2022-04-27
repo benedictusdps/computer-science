@@ -1,6 +1,6 @@
 # Computer Science
 
-A repository to document my learning process on Computer Science concepts using Python through [Codecademy's Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
+A repository to document my learning journey on Computer Science concepts using Python through [Codecademy's Computer Science Career Path](https://www.codecademy.com/learn/paths/computer-science).
 
 The topic consists of:
 
